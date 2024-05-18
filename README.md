@@ -2,8 +2,6 @@
 A comprehensive reference guide to popular Google Fonts, detailing their best use cases, personality traits, readability, and ideal font pairings.
 
 
-# Google Fonts Reference
-
 # Google Fonts Reference 
 
 | Font              | Use                  | Personality & Suggested Use Case                                                                                                                                                           | Pairs Well With                             | Readability (1-5) | Family     |
