@@ -1,6 +1,7 @@
 # google-fonts-resource
 A comprehensive reference guide to popular Google Fonts, detailing their best use cases, personality traits, readability, and ideal font pairings.
 
+## HOWEVER : also use the google images research method as this is AI below afterall.  This is just a quick reference with probably incorrect info so take it with a grain of salt.
 
 # Google Fonts Reference 
 
