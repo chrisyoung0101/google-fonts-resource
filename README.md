@@ -4,56 +4,62 @@ A comprehensive reference guide to popular Google Fonts, detailing their best us
 
 # Google Fonts Reference
 
-| Font              | Use         | Personality & Suggested Use Case                              | Pairs Well With                             |
-|-------------------|-------------|---------------------------------------------------------------|---------------------------------------------|
-| Poppins           | Header      | Modern, geometric, versatile. Ideal for tech and startups.    | Lora, Merriweather                         |
-| Fraunces          | Header      | Elegant, vintage. Suitable for luxury goods, editorial.       | Lato, Roboto                               |
-| Roboto            | Paragraph   | Clean, modern, highly readable. Great for body text.          | Roboto Slab, Merriweather                  |
-| Playfair Display  | Header      | Classic, elegant. Perfect for editorial, luxury brands.       | Roboto, Open Sans                          |
-| Montserrat        | Header      | Modern, clean. Ideal for tech, fashion.                       | Merriweather, Lora                         |
-| Anton             | Header      | Bold, strong. Suitable for headlines, posters.                | Roboto, Open Sans                          |
-| Outfit            | Header      | Versatile, modern. Great for tech, startups.                  | Merriweather, Roboto                       |
-| Inter             | Paragraph   | Highly readable, modern. Excellent for UI/UX, body text.      | Roboto, Open Sans                          |
-| Open Sans         | Paragraph   | Clean, friendly, highly readable. Great for web and mobile.   | Lora, Merriweather                         |
-| Radley            | Paragraph   | Classic, readable. Suitable for body text in editorial.       | Lato, Montserrat                           |
-| Arimo             | Paragraph   | Modern, clean. Ideal for body text in tech and business.      | Roboto, Open Sans                          |
-| Josefin Sans      | Header      | Elegant, vintage. Perfect for fashion, editorial.             | Lato, Merriweather                         |
-| Merriweather      | Paragraph   | Classic, highly readable. Great for long-form text.           | Montserrat, Open Sans                      |
-| Lato              | Paragraph   | Modern, friendly. Highly readable, great for body text.       | Playfair Display, Merriweather             |
-| Tangerine         | Header      | Elegant, script. Ideal for invitations, elegant branding.     | Lato, Open Sans                            |
-| Lobster           | Header      | Bold, retro. Perfect for logos, branding.                     | Open Sans, Lato                            |
-| Pacifico          | Header      | Playful, script. Suitable for informal branding, invitations. | Lato, Open Sans                            |
-| Raleway           | Header      | Elegant, modern. Ideal for fashion, tech.                     | Merriweather, Lato                         |
-| Dancing Script    | Header      | Casual, elegant. Great for invitations, personal blogs.       | Lato, Roboto                               |
-| Unbounded         | Header      | Modern, experimental. Suitable for tech, innovation.          | Open Sans, Lato                            |
-| Baloo             | Header      | Friendly, rounded. Ideal for children’s products, fun brands. | Lato, Open Sans                            |
-| Quicksand         | Header      | Modern, geometric. Great for tech, startups.                  | Merriweather, Lora                         |
-| Oswald            | Header      | Bold, condensed. Suitable for headlines, posters.             | Open Sans, Lato                            |
-| Hind              | Paragraph   | Clean, modern. Highly readable, ideal for body text.          | Merriweather, Lora                         |
-| Sacramento        | Header      | Elegant, script. Perfect for invitations, elegant branding.   | Lato, Open Sans                            |
-| Great Vibes       | Header      | Elegant, script. Suitable for formal invitations, branding.   | Lato, Open Sans                            |
-| Italianno         | Header      | Elegant, script. Ideal for invitations, personal branding.    | Lato, Open Sans                            |
-| Tinos             | Paragraph   | Classic, serif. Highly readable, great for body text.         | Open Sans, Lato                            |
-| Noto Sans         | Paragraph   | Modern, clean. Highly readable, ideal for diverse languages.  | Lora, Merriweather                         |
-| Source Sans Pro   | Paragraph   | Modern, clean. Highly readable, great for web and print.      | Playfair Display, Merriweather             |
-| Besley            | Paragraph   | Classic, serif. Suitable for body text in editorial.          | Lato, Open Sans                            |
-| Oxygen            | Paragraph   | Modern, clean. Highly readable, ideal for body text.          | Lora, Merriweather                         |
-| Libre Baskerville | Paragraph   | Classic, elegant. Great for long-form text, editorial.        | Montserrat, Lato                           |
-| Crimson Text      | Paragraph   | Classic, serif. Highly readable, great for editorial.         | Lora, Merriweather                         |
-| Old Standard TT   | Paragraph   | Classic, traditional. Suitable for academic text.             | Lato, Open Sans                            |
-| Cambay            | Paragraph   | Modern, clean. Highly readable, ideal for body text.          | Lato, Open Sans                            |
-| Abril Fatface     | Header      | Bold, dramatic. Perfect for headlines, editorial.             | Lato, Open Sans                            |
-| Barlow            | Header      | Modern, versatile. Ideal for tech, startups.                  | Merriweather, Lora                         |
-| Cormorant Garamond| Header      | Classic, elegant. Suitable for luxury goods, editorial.       | Lato, Open Sans                            |
-| EB Garamond       | Paragraph   | Classic, serif. Highly readable, great for long-form text.    | Open Sans, Lato                            |
-| Exo               | Header      | Modern, futuristic. Ideal for tech, innovation.               | Lato, Open Sans                            |
-| Fira Sans         | Paragraph   | Clean, modern. Highly readable, great for UI/UX.              | Merriweather, Lora                         |
-| Heebo             | Paragraph   | Modern, clean. Highly readable, ideal for body text.          | Open Sans, Lato                            |
-| Inconsolata       | Paragraph   | Monospaced, modern. Suitable for code, technical documents.   | Lato, Merriweather                         |
-| Karla             | Paragraph   | Modern, friendly. Highly readable, ideal for body text.       | Lato, Open Sans                            |
-| Manrope           | Paragraph   | Modern, clean. Highly readable, great for body text.          | Merriweather, Lora                         |
-| Merriweather Sans | Paragraph   | Clean, modern. Highly readable, ideal for body text.          | Lora, Open Sans                            |
-| Nunito            | Paragraph   | Friendly, rounded. Highly readable, great for body text.      | Merriweather, Lora                         |
-| PT Serif          | Paragraph   | Classic, elegant. Highly readable, great for long-form text.  | Montserrat, Lato                           |
-| Rubik             | Paragraph   | Modern, clean. Highly readable, ideal for body text.          | Lato, Open Sans                            |
+Here is the updated list with the additional information about whether the font is suitable for headers, paragraphs, or both:
+
+```markdown
+# Google Fonts Reference
+
+| Font              | Use                  | Personality & Suggested Use Case                                                                                                                                                           | Pairs Well With                             |
+|-------------------|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
+| Poppins           | Both (Header more)   | Modern, geometric, versatile. Ideal for tech and startups, fashion brands, corporate websites, and modern e-commerce.                                                                       | Lora, Merriweather                         |
+| Fraunces          | Header               | Elegant, vintage. Suitable for luxury goods, editorial, high-end restaurant menus, and boutique branding.                                                                                   | Lato, Roboto                               |
+| Roboto            | Both (Paragraph more)| Clean, modern, highly readable. Great for body text in tech blogs, educational resources, healthcare websites, and corporate reports.                                                      | Roboto Slab, Merriweather                  |
+| Playfair Display  | Header               | Classic, elegant. Perfect for editorial, luxury brands, wedding invitations, and high-end fashion magazines.                                                                                | Roboto, Open Sans                          |
+| Montserrat        | Both (Header more)   | Modern, clean. Ideal for tech, fashion, creative agencies, and urban lifestyle brands.                                                                                                      | Merriweather, Lora                         |
+| Anton             | Header               | Bold, strong. Suitable for headlines, posters, sports branding, and advertising campaigns.                                                                                                  | Roboto, Open Sans                          |
+| Outfit            | Both (Header more)   | Versatile, modern. Great for tech, startups, creative portfolios, and marketing agencies.                                                                                                   | Merriweather, Roboto                       |
+| Inter             | Both (Paragraph more)| Highly readable, modern. Excellent for UI/UX design, body text in web apps, tech documentation, and corporate intranets.                                                                     | Roboto, Open Sans                          |
+| Open Sans         | Both (Paragraph more)| Clean, friendly, highly readable. Great for web and mobile interfaces, corporate communication, healthcare, and educational content.                                                        | Lora, Merriweather                         |
+| Radley            | Paragraph            | Classic, readable. Suitable for body text in editorial, literary publications, and academic papers.                                                                                         | Lato, Montserrat                           |
+| Arimo             | Paragraph            | Modern, clean. Ideal for body text in tech and business reports, professional blogs, and academic research papers.                                                                           | Roboto, Open Sans                          |
+| Josefin Sans      | Header               | Elegant, vintage. Perfect for fashion, editorial, art galleries, and boutique stores.                                                                                                       | Lato, Merriweather                         |
+| Merriweather      | Both (Paragraph more)| Classic, highly readable. Great for long-form text in novels, academic articles, and historical publications.                                                                                | Montserrat, Open Sans                      |
+| Lato              | Both (Paragraph more)| Modern, friendly. Highly readable, great for body text in corporate reports, healthcare, and educational content.                                                                            | Playfair Display, Merriweather             |
+| Tangerine         | Header               | Elegant, script. Ideal for invitations, elegant branding, luxury event promotions, and high-end boutique stores.                                                                             | Lato, Open Sans                            |
+| Lobster           | Header               | Bold, retro. Perfect for logos, branding for casual restaurants, summer events, and vintage-themed products.                                                                                 | Open Sans, Lato                            |
+| Pacifico          | Header               | Playful, script. Suitable for informal branding, beach resorts, vacation promotions, and children’s products.                                                                                | Lato, Open Sans                            |
+| Raleway           | Both (Header more)   | Elegant, modern. Ideal for fashion, tech, creative portfolios, and innovative startups.                                                                                                     | Merriweather, Lato                         |
+| Dancing Script    | Header               | Casual, elegant. Great for invitations, personal blogs, summer events, and festive occasions.                                                                                               | Lato, Roboto                               |
+| Unbounded         | Header               | Modern, experimental. Suitable for tech, innovation, creative agencies, and futuristic branding.                                                                                            | Open Sans, Lato                            |
+| Baloo             | Header               | Friendly, rounded. Ideal for children’s products, fun brands, family-friendly restaurants, and entertainment venues.                                                                         | Lato, Open Sans                            |
+| Quicksand         | Both (Header more)   | Modern, geometric. Great for tech, startups, minimalistic design, and lifestyle blogs.                                                                                                      | Merriweather, Lora                         |
+| Oswald            | Both (Header more)   | Bold, condensed. Suitable for headlines, posters, urban fashion brands, and sports events.                                                                                                 | Open Sans, Lato                            |
+| Hind              | Paragraph            | Clean, modern. Highly readable, ideal for body text in educational materials, tech blogs, and government documents.                                                                          | Merriweather, Lora                         |
+| Sacramento        | Header               | Elegant, script. Perfect for invitations, elegant branding, luxury events, and romantic occasions.                                                                                          | Lato, Open Sans                            |
+| Great Vibes       | Header               | Elegant, script. Suitable for formal invitations, luxury branding, weddings, and special events.                                                                                            | Lato, Open Sans                            |
+| Italianno         | Header               | Elegant, script. Ideal for invitations, personal branding, gourmet food products, and cultural events.                                                                                       | Lato, Open Sans                            |
+| Tinos             | Paragraph            | Classic, serif. Highly readable, great for body text in academic papers, professional reports, and educational books.                                                                        | Open Sans, Lato                            |
+| Noto Sans         | Both (Paragraph more)| Modern, clean. Highly readable, ideal for diverse languages, global websites, and multilingual publications.                                                                                 | Lora, Merriweather                         |
+| Source Sans Pro   | Both (Paragraph more)| Modern, clean. Highly readable, great for web and print, corporate materials, and tech documentation.                                                                                        | Playfair Display, Merriweather             |
+| Besley            | Paragraph            | Classic, serif. Suitable for body text in editorial, historical publications, and academic research.                                                                                         | Lato, Open Sans                            |
+| Oxygen            | Both (Paragraph more)| Modern, clean. Highly readable, ideal for body text in tech blogs, educational content, and corporate communication.                                                                         | Lora, Merriweather                         |
+| Libre Baskerville | Paragraph            | Classic, elegant. Great for long-form text in editorial, literary works, and historical publications.                                                                                        | Montserrat, Lato                           |
+| Crimson Text      | Paragraph            | Classic, serif. Highly readable, great for editorial, academic papers, and literary publications.                                                                                           | Lora, Merriweather                         |
+| Old Standard TT   | Paragraph            | Classic, traditional. Suitable for academic text, historical documents, and scholarly publications.                                                                                         | Lato, Open Sans                            |
+| Cambay            | Both (Paragraph more)| Modern, clean. Highly readable, ideal for body text in educational content, tech blogs, and corporate communication.                                                                         | Lato, Open Sans                            |
+| Abril Fatface     | Header               | Bold, dramatic. Perfect for headlines, editorial, high-fashion branding, and luxury goods.                                                                                                   | Lato, Open Sans                            |
+| Barlow            | Both (Header more)   | Modern, versatile. Ideal for tech, startups, corporate branding, and professional portfolios.                                                                                                | Merriweather, Lora                         |
+| Cormorant Garamond| Header               | Classic, elegant. Suitable for luxury goods, editorial, wedding invitations, and cultural institutions.                                                                                      | Lato, Open Sans                            |
+| EB Garamond       | Paragraph            | Classic, serif. Highly readable, great for long-form text in academic papers, literary works, and historical documents.                                                                     | Open Sans, Lato                            |
+| Exo               | Both (Header more)   | Modern, futuristic. Ideal for tech, innovation, digital products, and creative agencies.                                                                                                     | Lato, Open Sans                            |
+| Fira Sans         | Both (Paragraph more)| Clean, modern. Highly readable, great for UI/UX design, tech documentation, and educational resources.                                                                                      | Merriweather, Lora                         |
+| Heebo             | Both (Paragraph more)| Modern, clean. Highly readable, ideal for body text in web apps, tech blogs, and educational content.                                                                                        | Open Sans, Lato                            |
+| Inconsolata       | Paragraph            | Monospaced, modern. Suitable for code, technical documents, developer blogs, and programming tutorials.                                                                                      | Lato, Merriweather                         |
+| Karla             | Both (Paragraph more)| Modern, friendly. Highly readable, ideal for body text in corporate communication, healthcare, and educational materials.                                                                   | Lato, Open Sans                            |
+| Manrope           | Both (Paragraph more)| Modern, clean. Highly readable, great for body text in corporate reports, tech blogs, and professional portfolios.                                                                           | Merriweather, Lora                         |
+| Merriweather Sans | Both (Paragraph more)| Clean, modern. Highly readable, ideal for body text in tech documentation, corporate communication, and educational resources.                                                              | Lora, Open Sans                            |
+| Nunito            | Both (Paragraph more)| Friendly, rounded. Highly readable, great for body text in children’s books, family-friendly websites, and educational content.                                                             | Merriweather, Lora                         |
+| PT Serif          | Both (Paragraph more)| Classic, elegant. Highly readable, great for long-form text in academic papers, editorial, and literary publications.                                                                        | Montserrat, Lato                           |
+| Rubik             | Both (Paragraph more)| Modern, clean. Highly readable, ideal for body text in tech blogs, corporate communication, and educational resources.                                                                       | Lato, Open Sans                            |
+```
 
