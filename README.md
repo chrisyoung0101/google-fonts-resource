@@ -63,3 +63,12 @@ A comprehensive reference guide to popular Google Fonts, detailing their best us
 | Prata              | Header             | Sophisticated, vintage. High contrast strokes make it ideal for elegant and dramatic headlines, suitable for luxury branding and fashion magazines.     | Open Sans, Lora                | 4                 | Serif   |
 | Yeseva One         | Header             | Distinctive, elegant. Great for stylish and bold headings, perfect for beauty and fashion websites, as well as boutique branding.                       | Lato, Open Sans                | 3                 | Serif   |
 | Lora               | Both (Paragraph more)| Contemporary, versatile. Perfect for body text and headlines in magazines, blogs, and elegant websites.                                                 | Open Sans, Merriweather        | 5                 | Serif   |
+
+
+
+
+
+[02+Section+Notes+-+Typography.pdf](https://github.com/chrisyoung0101/google-fonts-resource/files/15366105/02%2BSection%2BNotes%2B-%2BTypography.pdf)
+
+
+
