@@ -4,7 +4,7 @@ A comprehensive reference guide to popular Google Fonts, detailing their best us
 
 # Google Fonts Reference 
 
-| Font              | Use                  | Personality & Suggested Use Case                                                                                                                                                           | Pairs Well With                             | Readability (1-5) | Family     |
+| Font              | Use                  | Personality & Suggested Use Case                                                                                                                                                           | Pairs Well With                             | Readability (1-5) 5 = best| Family     |
 |-------------------|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------------------|------------|
 | Poppins           | Both (Header more)   | Modern, geometric, versatile. Ideal for tech and startups, fashion brands, corporate websites, and modern e-commerce.                                                                       | Lora, Merriweather                         | 5                 | Sans-serif |
 | Fraunces          | Header               | Elegant, vintage. Suitable for luxury goods, editorial, high-end restaurant menus, and boutique branding.                                                                                   | Lato, Roboto                               | 4                 | Serif      |
