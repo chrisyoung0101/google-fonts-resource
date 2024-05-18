@@ -6,7 +6,7 @@ A comprehensive reference guide to popular Google Fonts, detailing their best us
 
 Here is the updated list with the additional information about whether the font is suitable for headers, paragraphs, or both:
 
-```markdown
+
 # Google Fonts Reference
 
 | Font              | Use                  | Personality & Suggested Use Case                                                                                                                                                           | Pairs Well With                             |
@@ -61,5 +61,5 @@ Here is the updated list with the additional information about whether the font 
 | Nunito            | Both (Paragraph more)| Friendly, rounded. Highly readable, great for body text in children’s books, family-friendly websites, and educational content.                                                             | Merriweather, Lora                         |
 | PT Serif          | Both (Paragraph more)| Classic, elegant. Highly readable, great for long-form text in academic papers, editorial, and literary publications.                                                                        | Montserrat, Lato                           |
 | Rubik             | Both (Paragraph more)| Modern, clean. Highly readable, ideal for body text in tech blogs, corporate communication, and educational resources.                                                                       | Lato, Open Sans                            |
-```
+
 
